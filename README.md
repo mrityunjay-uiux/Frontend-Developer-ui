@@ -10,9 +10,17 @@
 </P>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Frontend-Developer-ui&label=Profile%20views&color=0e75b6&style=flat" alt="Mrityunjay Yadav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunjay-uiux&label=Profile%20views&color=0e75b6&style=flat" alt="Mrityunjay Yadav" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/Frontend-Developer-ui?logo=twitter&style=for-the-badge" alt="Frontend-Developer-ui" /></a> </p>
+<p align="left" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/mrityunjay-uiux/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn - Mrityunjay Yadav"
+         style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); transition: transform 0.2s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.05)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</p>
 
 - 🌱 I’m currently exploring **Framer, UI motion, AI-integrated design tools**
 
@@ -57,11 +65,23 @@ If you're working on something thoughtful, fun, or bold —
 ### 🛠 Tools I Use
 
 <p align="left">
+  <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" title="Framer" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/canva-1869031-1583154.png" width="40" title="Canva" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miro_logo.svg/512px-Miro_logo.svg.png" width="40" title="Miro" />
+  
+  <!-- Framer -->
+  <a href="https://framer.com" target="_blank" rel="noreferrer">
+    <img src="https://unpkg.com/simple-icons@latest/icons/framer.svg" alt="framer" width="40" height="40"/>
+  </a>
+  
+  <!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+  </a>
+  
+  <!-- Miro -->
+  <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" width="40" title="Miro" />
 </p>
+
 
 ---
 <!-- Languages and Tools -->
