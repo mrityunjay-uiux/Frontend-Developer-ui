@@ -54,15 +54,6 @@ If you're working on something thoughtful, fun, or bold —
 
 ---
 
-<h2 style="color: #44AEFB">⚙️ Design Stack</h2>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/canva-1869031-1583154.png" alt="canva" width="40" height="40"/> </a>
-  <a href="https://miro.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miro_logo.svg/512px-Miro_logo.svg.png" alt="miro" width="40" height="40"/> </a>
-</p>
-
----
 ### 🛠 Tools I Use
 
 <p align="left">
