@@ -1,70 +1,117 @@
-# MRITYUNJAY YADAV 
+# MRITYUNJAY YADAV
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Mrityunjay Yadav</h1>
  <p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FRONTEND+Developer+%7C+HTML+CSS;JavaScript+%7C+BOOTSTRAP;Nodejs+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Visual+Designer+by+Curiosity,+Not+Curriculum+%7C+UI%2FUX+Tinkerer;Creating+Order+in+Chaos+—+On-Site+%26+On-Screen)](https://git.io/typing-svg)
+
 </P>
-<h3 align="center">A multidisciplinary Frontend Developer from Uttar Pradesh, India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Frontend-Developer-ui&label=Profile%20views&color=0e75b6&style=flat" alt="Mrityunjay Yadav" /> </p>
 
-
-
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/Frontend-Developer-ui?logo=twitter&style=for-the-badge" alt="Frontend-Developer-ui" /></a> </p>
 
+- 🌱 I’m currently exploring **Framer, UI motion, AI-integrated design tools**
 
-<!--- 🔭 I’m currently working on [sykoexpert website](https://github.com/ANTRUMEYE)-->
+- 👨‍💼 All of my UI/UX work lives at [Portfolio](https://visualstoryteller.framer.ai/)
 
-- 🌱 I’m currently learning **JavaScript, UX**
+- 📝 I share visual ideas & experiments on [LinkedIn](https://www.linkedin.com/in/mrityunjay-uiux/)
 
-<!--- 👯 I’m looking to collaborate on [ONLINE IDE (CODE EDITOR) WEBSITE]([https://github.com/ANTRUMEYE](https://github.com/Frontend-Developer-ui))-->
+- 🗣️ Ask me about **Figma, Framer, UX, Visual Design**
 
-- 👨‍💻 All of my projects are available at [MRITYUNJAY-YADAV]([https://github.com/ANTRUMEYE](https://github.com/Frontend-Developer-ui))
+- 📄 Know more about my work on [Behance](https://www.behance.net/mrityunjay_uiux)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mrityunjay-yadav-477aa224a/)
+- 📧 Reach me at **mrityunjay.uiux@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
-
-- 📄 Know about my experiences [PORTFOLIO WEBSITE]( https://antrumeye.github.io/PORTFOLIO-WEBSITE/)
-
-- 📫 How to reach me **mrityunjayyadav1103@gmail.com**
-
-- 📫 My Latest Blogs [MRITYUNJAY YADAV](https://medium.com/@antrumeye)
-
-- ⚡ Fun fact **I Think I'm Creative.**
+- ✨ Fun fact **Design is my playground, not just a profession.**
 
 ---------------------------
-<h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+### ✨ My Visual Playground
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Frontend-Developer-ui&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Frontend-Developer-ui&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frontend-Developer-ui&theme=github_dark)|
-|---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Frontend-Developer-ui&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Frontend-Developer-ui&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=Frontend-Developer-ui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+- 🖥️ [Portfolio](https://visualstoryteller.framer.ai/)
+- 🎨 [Behance](https://www.behance.net/mrityunjay_uiux)
+- 📸 [Dribbble](https://dribbble.com/mrityunjay_uiux)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mrityunjay-uiux/)
 
-<p align="left"> <a href="https://github.com/Frontend-Developer-ui/-Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frontend-Developer-ui" alt="Frontend-Developer-uiFrontend-Developer-ui" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🔍 UI/UX Experiments Inside
+
+- 🧩 Exploring motion & micro-interactions in Framer  
+- ✨ Creating AI + UI prototypes  
+- 🧠 Thinking through structure, spacing & simplicity  
+- 🎯 Designing for clarity, not just decoration  
+
+---
+### 📫 Contact Me
+
+If you're working on something thoughtful, fun, or bold —  
+📧 **mrityunjay.uiux@gmail.com**
+
+---
+
+<h2 style="color: #44AEFB">⚙️ Design Stack</h2>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Frontend-Developer-ui" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mrityunjay-yadav-477aa224a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrityunjay-yadav-477aa224a/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC7Y0ffxX1DyhbD5JJVyQKZA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC7Y0ffxX1DyhbD5JJVyQKZA" height="30" width="40" /></a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
+  <a href="https://www.canva.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/canva-1869031-1583154.png" alt="canva" width="40" height="40"/> </a>
+  <a href="https://miro.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miro_logo.svg/512px-Miro_logo.svg.png" alt="miro" width="40" height="40"/> </a>
 </p>
 
+---
+### 🛠 Tools I Use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" title="Framer" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/canva-1869031-1583154.png" width="40" title="Canva" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miro_logo.svg/512px-Miro_logo.svg.png" width="40" title="Miro" />
+</p>
+
+---
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+<h2>⚙️ Languages and Tools</h2>
+<div align="center">
+  <img width="100px" alt="Tools Overview" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86ac08278.png"/>
 </div>
- <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 
-
-|![github-user-contribution](https://user-images.githubusercontent.com/109308073/200136854-36889630-86c6-4fb8-b261-976b6ac08274.svg)
-|---|
----
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://framer.com" target="_blank" rel="noreferrer">
+    <img src="https://unpkg.com/simple-icons@latest/icons/framer.svg" alt="framer" width="40" height="40"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+  </a>
+  <a href="https://miro.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/miro/miro-original.svg" alt="miro" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
+  </a>
+  <a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Perplexity_AI_logo.svg/512px-Perplexity_AI_logo.svg.png" alt="perplexity" width="40" height="40"/>
+  </a>
+</p>
